@@ -1,0 +1,6 @@
+plugins { id 'com.android.application' }
+android {
+    namespace 'com.promax.roofcalc'
+    compileSdk 34
+    defaultConfig { applicationId "com.promax.roofcalc"; minSdk 24; targetSdk 34 }
+}
